@@ -29,12 +29,12 @@
     "wiftype": 158,
     "txfee": 700000,
     "segwit": true,
-    "bech32_hrp": "bit",
+    "bech32_hrp": "ford",
     "mm2": 1,
     "required_confirmations": 1,
     "avg_blocktime": 600,
     "protocol": {
-      "type": "UTXO"
+      "type": "Stock"
     }
   }
 ]
