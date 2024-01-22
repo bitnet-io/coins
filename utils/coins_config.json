@@ -61,7 +61,7 @@
         "wallet_only": false,
         "sign_message_prefix": "Bitnet Signed Message:\n",
         "fname": "Bitnet",
-        "rpcport": 9332,
+        "rpcport": 18332,
         "pubtype": 25,
         "p2shtype": 22,
         "wiftype": 158,
