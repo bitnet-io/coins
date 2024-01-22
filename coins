@@ -20,8 +20,8 @@
   },
  {
     "coin": "FORD",
-    "name": "bitnet",
-    "fname": "Bitnet",
+    "name": "bitcoin",
+    "fname": "Bitcoin",
     "sign_message_prefix": "Bitnet Signed Message:\n",
     "rpcport": 18332,
     "pubtype": 25,
