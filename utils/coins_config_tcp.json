@@ -45,9 +45,10 @@
     },
   "FORD": {
 	"coin": "FORD",
-        "type": "UTXO",
+        "type": "Stock",
         "name": "Ford (F)",
         "coinpaprika_id": "",
+        "cboe_id": "btc-bitcoin",
         "coingecko_id": "",
         "livecoinwatch_id": "",
         "explorer_url": "",
@@ -71,7 +72,7 @@
         "required_confirmations": 1,
         "avg_blocktime": 600,
         "protocol": {
-            "type": "UTXO"
+            "type": "Stock"
         },
 	"electrum": [
             {
