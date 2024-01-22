@@ -48,7 +48,7 @@
         "type": "UTXO",
         "name": "Ford (F)",
         "coinpaprika_id": "btc-bitcoin",
-        "cboe_id": "F.json",
+        "cboe_id": "",
         "coingecko_id": "",
         "livecoinwatch_id": "",
         "explorer_url": "",
