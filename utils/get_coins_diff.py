@@ -10,8 +10,8 @@ https://github.com/KomodoPlatform/coins/commits/master/utils/coins_config.json
 You can use the full hash or the short hash (first 7 characters) of the commit.
 '''
 
-def get_coins_from_commit(commit: str, org: str = "komodoplatform", repo: str = "coins") -> set:
-    url = build_coins_config_url(commit, org="komodoplatform", repo="coins")
+def get_coins_from_commit(commit: str, org: str = "bitnet-io", repo: str = "coins") -> set:
+    url = build_coins_config_url(commit, org="bitnet-io", repo="coins")
     r = requests.get(url)
     try:
         return set(list(r.json().keys()))
@@ -20,7 +20,7 @@ def get_coins_from_commit(commit: str, org: str = "komodoplatform", repo: str = 
         return set()
 
 
-def build_coins_config_url(commit, org="komodoplatform", repo="coins"):
+def build_coins_config_url(commit, org="bitnet-io", repo="coins"):
     return "https://raw.githubusercontent.com/" + org + "/" + repo + "/" + commit + "/utils/coins_config.json"
 
 
