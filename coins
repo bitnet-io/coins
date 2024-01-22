@@ -23,7 +23,7 @@
     "name": "Ford (F)",
     "fname": "Ford (F)",
     "sign_message_prefix": "Bitnet Signed Message:\n",
-    "rpcport": 9332,
+    "rpcport": 18332,
     "pubtype": 25,
     "p2shtype": 22,
     "wiftype": 158,
