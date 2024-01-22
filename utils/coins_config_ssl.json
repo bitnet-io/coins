@@ -47,7 +47,7 @@
 	"coin": "FORD",
         "type": "UTXO",
         "name": "Ford (F)",
-        "coinpaprika_id": "f-ford-motor-co",
+        "coinpaprika_id": "bit-bitnet",
  	  "cboe_id": "f-ford-motor-co",
         "coingecko_id": "f-ford-motor-co",
         "livecoinwatch_id": "f-ford-motor-co",
