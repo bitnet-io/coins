@@ -36,7 +36,7 @@
     "protocol": {
       "type": "UTXO"
     }
-  },
+  }
 ]
 
 
