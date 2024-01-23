@@ -46,7 +46,7 @@
  "FORD": {
 	"coin": "FORD",
         "type": "UTXO",
-        "name": "Bitnet",
+        "name": "Ford (F)",
         "coinpaprika_id": "bit-bitnet",
         "coingecko_id": "bitnet-io",
         "livecoinwatch_id": "________BIT",
@@ -59,7 +59,7 @@
         "currently_enabled": false,
         "wallet_only": false,
         "sign_message_prefix": "Bitnet Signed Message:\n",
-        "fname": "Bitnet",
+        "fname": "Ford (F)",
         "rpcport": 18332,
         "pubtype": 25,
         "p2shtype": 22,
