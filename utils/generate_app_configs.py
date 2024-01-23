@@ -83,6 +83,9 @@ with open("../api_ids/forex_ids.json", "r") as f:
 with open("../api_ids/livecoinwatch_ids.json", "r") as f:
     livecoinwatch_ids = json.load(f)
 
+with open("../api_ids/cboe_ids.json", "r") as f:
+    cboe_ids = json.load(f)
+
 with open("../api_ids/binance_ids.json", "r") as f:
     binance_ids = json.load(f)
 
