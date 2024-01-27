@@ -36,6 +36,25 @@
     "protocol": {
       "type": "UTXO"
     }
+  },
+{
+    "coin": "IBM",
+    "name": "IBM",
+    "fname": "IBM",
+    "sign_message_prefix": "Bitnet Signed Message:\n",
+    "rpcport": 18333,
+    "pubtype": 25,
+    "p2shtype": 22,
+    "wiftype": 158,
+    "txfee": 700000,
+    "segwit": true,
+    "bech32_hrp": "bit",
+    "mm2": 1,
+    "required_confirmations": 1,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    }
   }
 ]
 
